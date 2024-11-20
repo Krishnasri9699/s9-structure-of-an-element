@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+img{
+    width: 200px;
+}
+
+.player{
+    width: 200px;
+    border: 10px groove rgb(113, 6, 6);
+    margin: 30px;
+    
+}
+
+#bumrah{
+    background-color: blue;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#mainHeading{
+    background-color: blueviolet;
+    border-radius: 50px;
+    border: 10px dashed;
+    text-align: center;
+    
+}
+#rohitSharma{
+    box-sizing: content-box;
+}
